@@ -1,0 +1,12 @@
+// For naming convention, please read the README.md file in the frontend folder.
+
+@import "./settings/global";
+
+// COMPONENETS
+@import "./components/button";
+//@import "./components/notification";
+@import "./components/comment-input";
+@import "./components/comment";
+
+// PAGES
+@import "./pages/admin-profile";

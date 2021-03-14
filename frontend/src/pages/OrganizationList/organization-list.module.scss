@@ -1,0 +1,10 @@
+@import "../../css/settings/_global";
+
+.org-list-page{
+    background-color:$yellow-bg;
+    padding: 60px 0;
+
+    &__heading{
+        margin-bottom:40px;
+    }
+}
